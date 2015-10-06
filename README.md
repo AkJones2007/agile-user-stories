@@ -102,13 +102,11 @@ How do we know we're done with a story? We need a solid set of acceptance criter
 ## [Morts Hardware](MortsHardware.md)
 
 ## [Honest Tom's Used Cars](HonestTomAuto.md)
+
 ## Pre-Reading
-
-* []()
+* [User Stories for Agile Requirements](https://vimeo.com/43601248)
 * [INVEST User Stories](https://youtu.be/uj5iUbDf-iw?list=UUQScrIAUqnPqwBu97eO17WQ)
-## References
 
-* [Git Commands](command-reference.md)
-* [Github's fork page](https://help.github.com/articles/fork-a-repo/)
+
 
 

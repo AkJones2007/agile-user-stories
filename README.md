@@ -101,7 +101,7 @@ How do we know we're done with a story? We need a solid set of acceptance criter
 
 ## [Morts Hardware](MortsHardware.md)
 
-## [Honest Tom's Used Cars](HonestTomAuto.md)
+## [Honest Tom's Used Cars](https://github.com/ga-wdi-boston/agile-user-stories-lab)
 
 ## Pre-Reading
 * [User Stories for Agile Requirements](https://vimeo.com/43601248)

@@ -10,7 +10,7 @@
 
 As we've seen, we are trying to create a software project that will help manage hardware stores. So far in this project we've only created a set of files that represent some business knowledge, inventory and employee data. Now we want to move on to create software to help manage these kinds of stores.
 
-So, the **domain** that we're working in is the "Hardware Store Management" **domain**. We're going to need to learn quite a bit about this domain. First let's brainstorm and think about who would be using our software. 
+So, the **domain** that we're working in is the "Hardware Store Management" **domain**. We're going to need to learn quite a bit about this domain.
 
 **The set of steps we are going to follow are:** 
 
@@ -22,8 +22,9 @@ So, the **domain** that we're working in is the "Hardware Store Management" **do
 	4.2 Create Wireframes and Flow Diagrams.  
 	4.3 Create "other" Design Artifacts.  
 5. Add User Stories to a Iteration.
-	1. Determine Priority.
-	2. Determine Dependencies between Stories
+	1. Determine Dependencies between Stories. 
+	2. Determine Priority.
+
 5. Write Software guided by User Stories.
 
 ## Writing Stories
